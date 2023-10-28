@@ -54,7 +54,7 @@ nav {
 }
 
 .chat-room {
-  background-image: url("../assets/ChatWallpaper2");
+  background-image: url("../assets/ChatWallpaper2.jpg");
   overflow-y: scroll;
   max-width: 1000px;
   margin: auto;

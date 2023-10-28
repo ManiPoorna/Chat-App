@@ -1,5 +1,5 @@
 # Chat-App
-This app woll work on LocalHost at present, for that you need to install some dependencies..
+This app will work on LocalHost at present, for that you need to install some dependencies..
 
 Follow below steps to work with this app
 STEP 1: npm init -y
